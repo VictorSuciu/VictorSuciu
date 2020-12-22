@@ -1,4 +1,4 @@
-### Hi
+### Hi :D
 
 **Recruiters:** Please see the projects below as examples of my work. They are sorted by impressiveness from top-left (most impressive) -> bottom-right (least impressive)
 
