@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi
 
-<!--
-**VictorSuciu/VictorSuciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Recruiters:** Please see the projects below as examples of my work. They are sorted by impressiveness from top-left (most impressive) -> bottom-right (least impressive)
 
-Here are some ideas to get you started:
+**Everyone else:** Not much else to say. Feel free to look around!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Interests
+
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Math
+* Python & C++
+
