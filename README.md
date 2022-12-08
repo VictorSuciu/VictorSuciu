@@ -4,11 +4,3 @@
 
 **Everyone else:** Not much else to say. Feel free to look around!
 
-### My Interests (in no particular order)
-
-* Machine Learning
-* Natural Language Processing
-* Computer Vision
-* Math
-* Python & C++
-
